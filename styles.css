@@ -1,0 +1,21 @@
+nav,section,aside,adress,footer,body{
+    border: 1px solid black;
+}
+
+.header{
+    background: #FFFBB9;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.par{
+    font-family: sans-serif;
+} 
+
+aside,adress,footer{
+    font-family: sans-serif;
+}
+
+.nav{
+    font-family: sans-serif;
+}
